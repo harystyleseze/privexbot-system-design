@@ -6,14 +6,7 @@
 ## Table of Contents
 1. [Architecture Philosophy](#architecture-philosophy)
 2. [Complete Project Structure](#complete-project-structure)
-3. [Understanding Multitenancy](#understanding-multitenancy)
-4. [Containerization Strategy](#containerization-strategy)
-5. [Service Architecture & Data Flow](#service-architecture--data-flow)
-6. [Secret AI Integration as Plugin](#secret-ai-integration-as-plugin)
-7. [Keplr Wallet & Blockchain Integration](#keplr-wallet--blockchain-integration)
-8. [Implementation Roadmap](#implementation-roadmap)
-9. [Deployment Strategy](#deployment-strategy)
-10. [Technical Deep Dives](#technical-deep-dives)
+
 
 ---
 
